@@ -1,0 +1,1 @@
+C:\Users\BISMILLAH\StudioProjects\CustomPlugin\buildSrc\build\classes\kotlin\main\pk\farimarwat\anrspyplugin\AnrSpyPlugin.class;C:\Users\BISMILLAH\StudioProjects\CustomPlugin\buildSrc\build\classes\kotlin\main\pk\farimarwat\anrspyplugin\AnrSpyTask.class
